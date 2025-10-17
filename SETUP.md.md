@@ -30,7 +30,7 @@ SeaSync requires Firebase for data storage and photo uploads.
 
 2. Add your Firebase credentials to `.env`:
    ```env
-   EXPO_PUBLIC_FIREBASE_API_KEY=AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   EXPO_PUBLIC_FIREBASE_API_KEY=
    EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
    EXPO_PUBLIC_FIREBASE_PROJECT_ID=your-project-id
    EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET=your-project.appspot.com
@@ -312,3 +312,4 @@ Need help? Check these resources:
 ## License
 
 This project is open source and available for environmental conservation efforts.
+
